@@ -1,0 +1,5 @@
+Casting
+
+* String to int: Integer.valueOf(s)
+* int to String: String.valueOf(n)
+* object to String: o.toString() || ("" + o)
